@@ -123,6 +123,11 @@
                                     <action selector="addTapped:" destination="VRZ-wb-I8X" eventType="touchUpInside" id="2JG-rf-jqt"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dCe-Pn-TGj">
+                                <rect key="frame" x="159" y="521" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="3lS-9W-NQX"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
